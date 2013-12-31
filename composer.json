@@ -9,5 +9,8 @@
             "name": "Inchoo",
             "email": "web@inchoo.net"
         }
-    ]
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
 }
