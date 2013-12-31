@@ -1,0 +1,13 @@
+{
+    "name": "inchoo/invalidated-block-cache-fix",
+    "homepage": "https://github.com/tomasinchoo/Inchoo_InvalidatedBlockCacheFix",
+    "type": "magento-module",
+    "description": "This extension refreshes block cache after saving the product. Used to fix \"One or more of the Cache Types are invalidated: Blocks HTML output.\" message.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Inchoo",
+            "email": "web@inchoo.net"
+        }
+    ]
+}
